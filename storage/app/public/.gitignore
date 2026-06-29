@@ -1,2 +1,8 @@
 *
 !.gitignore
+!products/
+!products/**
+!partners/
+!partners/**
+!gallery/
+!gallery/**
